@@ -11,6 +11,7 @@
 int main(void)
 {
 	printf("Hello World\n");
+	printf("welcome to programming\n");
 
 	for(;;);
 }
